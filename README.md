@@ -1,8 +1,8 @@
-# 👨🏻‍💻 Rodrigo Sousa
+# 👨🏻‍💻 Miguel Soares
 
 **`Desenvolvedor FullStack`**
 
-Meu nome é Rodrigo, sou desenvolvedor fullstack com experiência no desenvolvimento de aplicações modernas e escaláveis. Trabalho tanto no front-end quanto no back-end, utilizando tecnologias como React, Laravel, TailwindCSS e C#, sempre buscando criar soluções eficientes, seguras e com foco na melhor experiência para o usuário. Tenho facilidade em aprender novas ferramentas e gosto de enfrentar desafios que me permitam evoluir profissionalmente e entregar resultados de qualidade. Atualmente meu principal projeto é o [FlyTools](https://flytools.com.br/), uma plataforma para que reúne diversos utilitários para a simulação de voo.
+Meu nome é Miguel, sou desenvolvedor fullstack com experiência no desenvolvimento de aplicações modernas e escaláveis. Trabalho tanto no front-end quanto no back-end, utilizando tecnologias como React, Laravel, TailwindCSS e C#, sempre buscando criar soluções eficientes, seguras e com foco na melhor experiência para o usuário. Tenho facilidade em aprender novas ferramentas e gosto de enfrentar desafios que me permitam evoluir profissionalmente e entregar resultados de qualidade.
 
 ---
 
